@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Contact.html",
     "name": "LBerger 2016",
     "theme": {
       "name": "mobirise3",
@@ -199,7 +199,7 @@
           },
           "title": "Contact Me",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"mailto:lauren.berger@gallaudet.edu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Email</a>  <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.researchgate.net/profile/Lauren_Berger\" data-toolbar=\"-mbrBtnMove\">ResearchGate</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"mailto:lauren.berger@gallaudet.edu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Email</a>  <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.researchgate.net/profile/Lauren_Berger\" data-toolbar=\"-mbrBtnMove\">ResearchGate</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.linkedin.com/in/lauren-berger-8ba255141/\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a>"
         }
       ]
     },
@@ -358,7 +358,7 @@
             "showButtons": false
           },
           "title": "<span style=\"font-weight: normal;\">Lauren Berger</span>",
-          "text": "In August 2016, I joined the Ph.D program in Educational Neuroscience at Gallaudet University. In this program, I am a resident of Dr. Clifton Langdon's Language and Educational Neuroscience Laboratory, and Dr. Laura-Ann Petitto's Brain and Language Laboratory for Neuroimaging.&nbsp;<br>I graduated with a Bachelor's of Science in Psychology and a minor in Language Science, cum laude, from Rochester Institute of Technology in May 2016.&nbsp;<br><br>My primary research interests explore the neuroplasticity and resilience of the neural substrates supporting the language network. This involves studying populations with variations in language modality (i.e., tactile, auditory, visual), and sensory experience (deaf-blind, deaf, hearing). The human language processing neural networks are constrained, but flexible; by studying populations who use languages in different modalities, we can advance understanding of the multiple components that underlie the language neural network.&nbsp;<br>",
+          "text": "In August 2016, I joined the Ph.D program in Educational Neuroscience at Gallaudet University. In this program, I am a resident of Dr. Clifton Langdon's Language and Educational Neuroscience Laboratory.<br>I graduated with a Bachelor's of Science in Psychology and a minor in Language Science, cum laude, from Rochester Institute of Technology in May 2016.&nbsp;<br><br>My primary research interests explore the neuroplasticity and resilience of the neural substrates supporting the language network. This involves studying populations with variations in language modality (i.e., tactile, auditory, visual), and sensory experience (deaf-blind, deaf, hearing). The human language processing neural networks are constrained, but flexible; by studying populations who use languages in different modalities, we can advance our understanding of the multiple components that underlie the language neural network.&nbsp;<br><br>I am also interested in the industries of data science, machine learning, and R&amp;D.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
@@ -466,7 +466,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/a/gallaudet.edu/file/d/0B5ltcnYMccFeNVdkNGlzLV9QWTQ/view?usp=sharing\" target=\"_blank\">CV</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact Me</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mailto:lauren.berger@gallaudet.edu\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.researchgate.net/profile/Lauren_Berger\">ResearchGate</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/a/gallaudet.edu/file/d/0B5ltcnYMccFeNVdkNGlzLV9QWTQ/view?usp=sharing\" target=\"_blank\">CV</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact Me</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mailto:lauren.berger@gallaudet.edu\">Email</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.researchgate.net/profile/Lauren_Berger\">ResearchGate</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
